@@ -4,7 +4,7 @@
 [image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
 
 
-# Project 2: Continuous Control
+# Project 2: Continuous Control - DDPG Algorithm Udacity Deep Reinforcement Learning
 
 ### Introduction
 
@@ -66,7 +66,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Follow the instructions in `Continuous_Control_DDPG.ipynb` to get started with training your own agent!  
+Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
 
 ### (Optional) Challenge: Crawler Environment
 
